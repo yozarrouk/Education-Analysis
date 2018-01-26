@@ -1,0 +1,203 @@
+ISO3 Code,Countries, Total , Male , Female , Urban , Rural , Poorest , Poorer , Middle , Fourth , Richest ,Source
+AFG,Afghanistan,24,33,15,39,17,12,15,14,23,46, DHS 2015 
+ALB,Albania,46,47,44,69,25,16,22,34,61,86, DHS 2008-09 
+DZA,Algeria,38,30,47,43,30,22,27,37,41,62, MICS 2012-13 
+AND,Andorra,,,,,,,,,,,
+AGO,Angola,,,,,,,,,,,
+AIA,Anguilla,,,,,,,,,,,
+ATG,Antigua and Barbuda,,,,,,,,,,,
+ARG,Argentina,59,53,66,,,32,48,58,77,83, MICS 2011-12 
+ARM,Armenia,93,88,96,95,90,88,89,92,99,99, DHS 2010 
+AUS,Australia,,,,,,,,,,,
+AUT,Austria,,,,,,,,,,,
+AZE,Azerbaijan,,,,,,,,,,,
+BHS,Bahamas,,,,,,,,,,,
+BHR,Bahrain,,,,,,,,,,,
+BGD,Bangladesh,28,31,26,36,25,7,14,25,34,50, DHS 2014 
+BRB,Barbados,94,91,97,92,97,88,93,94,97,97, MICS 2012 
+BLR,Belarus,97,96,98,98,94,86,99,98,98,100, MICS 2012 
+BEL,Belgium,,,,,,,,,,,
+BLZ,Belize,22,20,25,29,17,4,11,19,25,53, MICS 2011 
+BEN,Benin,15,22,9,23,6,1,3,5,10,36, DHS 2011-12 
+BTN,Bhutan,21,25,18,35,15,6,9,13,23,53, MICS 2010 
+BOL,Bolivia (Plurinational State of),60,63,57,72,29,15,37,52,72,90, DHS 2008 
+BIH,Bosnia and Herzegovina,92,92,92,97,90,71,90,93,97,98, MICS 2011-12 
+BWA,Botswana,,,,,,,,,,,
+BRA,Brazil,59,53,64,,,,,,,, Pesquisa Nacional por Amostra de Domicílios 2013 
+VGB,British Virgin Islands,,,,,,,,,,,
+BRN,Brunei Darussalam,,,,,,,,,,,
+BGR,Bulgaria,,,,,,,,,,,
+BFA,Burkina Faso,4,6,2,11,0,0,0,0,0,12, DHS 2010 
+BDI,Burundi,3,4,2,14,1,0,1,0,2,8, DHS 2010 
+CPV,Cabo Verde,,,,,,,,,,,
+KHM,Cambodia,20,20,20,48,13,5,6,11,20,48, DHS 2014 
+CMR,Cameroon,15,18,12,22,3,0,1,4,13,35, DHS 2011 
+CAN,Canada,,,,,,,,,,,
+CAF,Central African Republic,7,8,6,14,1,0,1,2,6,22, MICS_2010 
+TCD,Chad,10,15,6,26,2,1,2,3,3,27, DHS 2014-15 
+CHL,Chile,,,,,,,,,,,
+CHN,China,,,,,,,,,,,
+COL,Colombia,66,62,69,73,39,29,53,67,81,92, DHS 2010 
+COM,Comoros,28,24,32,43,20,4,21,27,32,49, DHS 2012 
+COG,Congo,17,20,15,22,2,1,3,11,21,40, DHS 2011-12 
+COK,Cook Islands,,,,,,,,,,,
+CRI,Costa Rica,47,38,56,53,38,10,33,43,58,86, MICS 2011 
+CIV,Côte d'Ivoire,14,17,11,23,2,1,2,8,11,36, DHS 2011-12 
+HRV,Croatia,,,,,,,,,,,
+CUB,Cuba,83,81,86,84,81,,,,,, MICS 2014 
+CYP,Cyprus,,,,,,,,,,,
+CZE,Czech Republic,,,,,,,,,,,
+PRK,Democratic People's Republic of Korea,,,,,,,,,,,
+COD,Democratic Republic of the Congo,25,30,21,44,12,7,11,15,23,56, DHS 2013 
+DNK,Denmark,,,,,,,,,,,
+DJI,Djibouti,,,,,,,,,,,
+DMA,Dominica,,,,,,,,,,,
+DOM,Dominican Republic,57,48,66,62,43,25,43,57,71,89, MICS)2014 
+ECU,Ecuador,,,,,,,,,,,
+EGY,Egypt,70,71,69,79,65,56,58,68,75,90, DHS 2014 
+SLV,El Salvador,,,,,,,,,,,
+GNQ,Equatorial Guinea,,,,,,,,,,,
+ERI,Eritrea,,,,,,,,,,,
+EST,Estonia,,,,,,,,,,,
+ETH,Ethiopia,13,13,12,32,5,0,1,2,6,34, DHS 2011 
+FJI,Fiji,,,,,,,,,,,
+FIN,Finland,,,,,,,,,,,
+FRA,France,,,,,,,,,,,
+GAB,Gabon,11,11,11,12,2,0,3,9,10,32, DHS 2012 
+GMB,Gambia,28,28,28,37,13,12,14,20,29,48, DHS 2013 
+GEO,Georgia,,,,,,,,,,,
+DEU,Germany,,,,,,,,,,,
+GHA,Ghana,38,42,35,48,26,12,19,34,45,68, DHS 2014 
+GRC,Greece,,,,,,,,,,,
+GRD,Grenada,,,,,,,,,,,
+GTM,Guatemala,26,27,25,41,15,3,8,20,35,60, DHS 2014-15 
+GIN,Guinea,15,23,10,30,3,2,1,3,17,36, DHS 2012 
+GNB,Guinea-Bissau,9,11,8,15,2,2,1,3,7,21, MICS 2014 
+GUY,Guyana,56,49,64,66,53,26,38,61,71,79, MICS 2014 
+HTI,Haiti,10,12,9,16,4,1,1,5,7,27, DHS 2012 
+VAT,Holy See,,,,,,,,,,,
+HND,Honduras,30,27,33,43,15,4,10,24,39,64, DHS 2011-12 
+HUN,Hungary,,,,,,,,,,,
+ISL,Iceland,,,,,,,,,,,
+IND,India,25,29,21,39,16,3,7,13,26,58, DHS 2005 
+IDN,Indonesia,50,52,48,65,33,19,34,48,64,83, DHS 2012 
+IRN,Iran (Islamic Republic of),,,,,,,,,,,
+IRQ,Iraq,35,37,32,41,19,11,19,28,38,62, MICS 2011 
+IRL,Ireland,,,,,,,,,,,
+ISR,Israel,,,,,,,,,,,
+ITA,Italy,,,,,,,,,,,
+JAM,Jamaica,82,80,83,82,82,62,84,80,91,93, MICS 2011 
+JPN,Japan,,,,,,,,,,,
+JOR,Jordan,59,51,67,59,59,36,43,58,69,79, DHS 2012 
+KAZ,Kazakhstan,95,95,96,97,93,89,94,96,97,99, MICS 2015 
+KEN,Kenya,41,44,38,56,27,11,21,32,48,69, DHS 2014 
+KIR,Kiribati,,,,,,,,,,,
+KWT,Kuwait,,,,,,,,,,,
+KGZ,Kyrgyzstan,83,82,85,86,82,83,82,79,82,91, MICS 2014 
+LAO,Lao People's Democratic Republic,25,25,24,54,9,1,6,13,26,64, Lao Social Indicator Survey 2011-12 
+LVA,Latvia,,,,,,,,,,,
+LBN,Lebanon,,,,,,,,,,,
+LSO,Lesotho,24,20,27,40,16,3,6,20,27,47, DHS 2014 
+LBR,Liberia,13,18,9,19,4,2,4,4,13,31, DHS 2013 
+LBY,Libya,,,,,,,,,,,
+LIE,Liechtenstein,,,,,,,,,,,
+LTU,Lithuania,,,,,,,,,,,
+LUX,Luxembourg,,,,,,,,,,,
+MDG,Madagascar,6,6,6,21,3,0,0,0,3,22, DHS 2008-09 
+MWI,Malawi,14,15,13,34,10,2,5,8,15,37, DHS 2015-16 
+MYS,Malaysia,,,,,,,,,,,
+MDV,Maldives,13,16,12,23,7,4,4,8,14,29, DHS 2009 
+MLI,Mali,8,12,5,19,3,0,1,3,6,21, DHS 2012-13 
+MLT,Malta,,,,,,,,,,,
+MHL,Marshall Islands,,,,,,,,,,,
+MRT,Mauritania,13,18,10,19,7,2,3,7,12,30, MICS 2011 
+MUS,Mauritius,,,,,,,,,,,
+MEX,Mexico,23,25,22,23,24,22,21,26,30,17, MICS 2015 
+FSM,Micronesia (Federated States of),,,,,,,,,,,
+MCO,Monaco,,,,,,,,,,,
+MNG,Mongolia,71,64,78,82,43,32,58,75,86,95, MICS 2013-14 
+MNE,Montenegro,86,84,87,89,78,63,78,87,97,93, MICS 2013 
+MSR,Montserrat,,,,,,,,,,,
+MAR,Morocco,,,,,,,,,,,
+MOZ,Mozambique,6,8,4,12,1,0,1,0,2,18, DHS 2011 
+MMR,Myanmar,16,13,18,30,10,2,5,9,17,43, DHS 2015 
+NAM,Namibia,36,33,39,47,18,8,13,27,46,65, DHS 2013 
+NRU,Nauru,,,,,,,,,,,
+NPL,Nepal,24,28,21,48,17,5,12,11,22,59, MICS 2014 
+NLD,Netherlands,,,,,,,,,,,
+NZL,New Zealand,,,,,,,,,,,
+NIC,Nicaragua,,,,,,,,,,,
+NER,Niger,2,4,1,9,0,0,0,0,0,8, DHS 2012 
+NGA,Nigeria,49,57,42,68,33,7,18,40,63,83, DHS 2013 
+NIU,Niue,,,,,,,,,,,
+NOR,Norway,,,,,,,,,,,
+OMN,Oman,,,,,,,,,,,
+PAK,Pakistan,36,40,32,53,27,6,19,28,45,71, DHS 2012-13 
+PLW,Palau,,,,,,,,,,,
+PAN,Panama,63,57,68,72,38,21,45,66,82,95, MICS 2013 
+PNG,Papua New Guinea,,,,,,,,,,,
+PRY,Paraguay,,,,,,,,,,,
+PER,Peru,75,78,72,83,47,34,59,78,89,95, DHS 2012 
+PHL,Philippines,67,59,76,75,59,28,53,72,82,91, DHS 2013 
+POL,Poland,,,,,,,,,,,
+PRT,Portugal,,,,,,,,,,,
+QAT,Qatar,,,,,,,,,,,
+KOR,Republic of Korea,,,,,,,,,,,
+MDA,Republic of Moldova,69,63,74,82,56,29,51,66,80,86, MICS 2012 
+ROU,Romania,,,,,,,,,,,
+RUS,Russian Federation,,,,,,,,,,,
+RWA,Rwanda,17,19,16,38,11,4,5,11,16,42, DHS 2014-15 
+KNA,Saint Kitts and Nevis,,,,,,,,,,,
+LCA,Saint Lucia,80,70,90,77,81,54,80,85,93,96, MICS 2012 
+VCT,Saint Vincent and the Grenadines,,,,,,,,,,,
+WSM,Samoa,,,,,,,,,,,
+SMR,San Marino,,,,,,,,,,,
+STP,Sao Tome and Principe,12,12,12,13,11,5,5,11,13,25, MICS 2014 
+SAU,Saudi Arabia,,,,,,,,,,,
+SEN,Senegal,9,14,6,16,2,0,2,4,8,22, Continuous DHS 2015 
+SRB,Serbia,76,71,81,80,68,44,73,79,80,95, MICS 2014 
+SYC,Seychelles,,,,,,,,,,,
+SLE,Sierra Leone,20,25,16,38,4,2,3,7,17,44, DHS 2013 
+SGP,Singapore,,,,,,,,,,,
+SVK,Slovakia,,,,,,,,,,,
+SVN,Slovenia,,,,,,,,,,,
+SLB,Solomon Islands,,,,,,,,,,,
+SOM,Somalia,,,,,,,,,,,
+ZAF,South Africa,50,46,55,,,,,,,, General Household Survey 2014 
+SSD,South Sudan,8,13,4,15,5,2,2,5,7,17, MICS 2010 
+ESP,Spain,,,,,,,,,,,
+LKA,Sri Lanka,,,,,,,,,,,
+PSE,State of Palestine,62,52,73,62,64,50,62,57,63,79, MICS 2014 
+SDN,Sudan,31,34,29,49,22,11,11,21,35,72, MICS 2014 
+SUR,Suriname,18,14,22,22,8,2,12,14,23,34, MICS 2010 
+SWZ,Swaziland,28,27,29,41,23,9,19,25,32,49, MICS 2010 
+SWE,Sweden,,,,,,,,,,,
+CHE,Switzerland,,,,,,,,,,,
+SYR,Syrian Arab Republic,,,,,,,,,,,
+TJK,Tajikistan,62,78,50,74,58,53,51,56,68,79, DHS 2012 
+THA,Thailand,55,52,58,61,48,30,41,50,63,82, MICS 2012-13 
+MKD,The former Yugoslav Republic of Macedonia,74,80,69,87,61,34,64,86,91,97, MICS 2011 
+TLS,Timor-Leste,28,28,29,48,20,8,13,19,32,57, DHS 2009-10 
+TGO,Togo,15,20,10,25,3,1,4,2,16,31, DHS 2013-14 
+TKL,Tokelau,,,,,,,,,,,
+TON,Tonga,,,,,,,,,,,
+TTO,Trinidad and Tobago,,,,,,,,,,,
+TUN,Tunisia,42,36,49,51,24,18,28,37,55,75, MICS 2011-12 
+TUR,Turkey,53,58,48,57,33,17,43,53,66,86, DHS style 2013 
+TKM,Turkmenistan,81,83,80,75,85,82,85,86,79,73, MICS 2015-16 
+TCA,Turks and Caicos Islands,,,,,,,,,,,
+TUV,Tuvalu,,,,,,,,,,,
+UGA,Uganda,15,18,13,36,7,2,5,6,9,38, DHS 2011 
+UKR,Ukraine,97,97,97,98,94,91,97,98,98,99, MICS 2012 
+ARE,United Arab Emirates,,,,,,,,,,,
+GBR,United Kingdom,,,,,,,,,,,
+TZA,United Republic of Tanzania,29,32,27,49,17,6,8,15,29,62, -   
+USA,United States,,,,,,,,,,,
+URY,Uruguay,35,45,28,38,10,2,9,40,44,91, MICS 2012-13 
+UZB,Uzbekistan,,,,,,,,,,,
+VUT,Vanuatu,,,,,,,,,,,
+VEN,Venezuela (Bolivarian Republic of),,,,,,,,,,,
+VNM,Viet Nam,56,50,61,71,48,19,44,56,70,90, MICS 2014 
+YEM,Yemen,30,37,23,47,20,9,15,25,33,56, DHS 2013 
+ZMB,Zambia,28,34,23,42,11,1,6,16,28,61, DHS 2013-14 
+ZWE,Zimbabwe,10,12,8,22,3,0,2,4,6,29, MICS 2014 
