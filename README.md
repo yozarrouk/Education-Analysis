@@ -7,8 +7,10 @@
 * A small (and my first published python!) project inspired by POTUS’s recent comment. 
 
 ## What tools were used?
-* An analytical snapshot of educational performance across US counties and their relation to the 2016 presidential election.
-* Examination of education growth in high performing African nations.
+* Python in a Notebook environment
+* The following packages: Pandas, Matplotlib, Seaborn
+* The Quandl API to pull World Bank Data
+
 
 ## Methodology
 The code was written in three parts, based on the data sets used. The scripts can be found in the consolidated GitHub files.
