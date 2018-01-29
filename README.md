@@ -25,15 +25,15 @@ The code was written in three parts, based on the data sets used. The scripts ca
 This data was pulled from 2014 U.S. Census estimates. Here’s some interesting tidbits:
 
 * After the available education data was cross-referenced with the available election data, a dataset of 3,108 U.S. counties was produced. 2,625 of these counties voted for Trump and 486 of these counties voted for Clinton. 
-* Averaging the county data, it was found that the population in the average  “Trump county” consisted of 88.6% high school graduates. The average “Clinton county” was made up of 95.7% high school graduates.
+* Averaging the county data, it was found that the population in the average  “Trump county” consisted of 85.0% high school graduates. The average “Clinton county” was made up of 84.7% high school graduates.
 
 ![Imgur](https://i.imgur.com/zubnKge.png)
 
-* Furthermore, the average “Trump county” consisted of 16.8% Bachelor degree holders whereas the average “Clinton county” was found with 51.9% Bachelor degree holders. 
+* Furthermore, the average “Trump county” consisted of 18.5% Bachelor degree holders whereas the average “Clinton county” was found with 28.4% Bachelor degree holders. 
 
 ![Imgur](https://i.imgur.com/GuvGZf9.png)
 
-* Unlike the education values, the average “Trump county” skewed a higher median income at $41,988 with the “Clinton counties” averaging a median income of $34,702.
+* The average “Trump county” skewed a lower median income at $31,108 with the “Clinton counties” averaging a median income of $33,848.
 
 ![Imgur](https://i.imgur.com/y3w9yfu.png)
 
